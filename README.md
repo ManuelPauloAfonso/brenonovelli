@@ -1,3 +1,5 @@
+<img src="/import.svg" height="16" alt="import * as benove" />
+
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonovelli&layout=compact)](https://www.linkedin.com/in/brenonovelli/)
