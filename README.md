@@ -3,12 +3,12 @@
 </p>
 
 <p style="margin: 2rem auto">
-  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/assets/b.profile.svg" height="30" />
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.profile.svg" height="30" />
 </p>
 
 <div style="display: flex; justify-content: space-around">
-  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/assets/b.dev.svg" height="30" />
-  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/assets/b.des.svg" height="30" />
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.dev.svg" height="30" />
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.des.svg" height="30" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ const brenonovelli = {
 ```
 
 <p style="margin: 2rem auto">
-  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/assets/b.stats.svg" height="30" />
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.stats.svg" height="30" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonovelli&layout=compact)](https://www.linkedin.com/in/brenonovelli/)
@@ -56,7 +56,7 @@ Come back soon or visit:
 - [linkedin.com/in//brenonovelli](https://www.linkedin.com/in//brenonovelli)
 
 <div style="margin: 2rem auto">
-  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/assets/b.end.svg" height="65" />
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.end.svg" height="65" />
 </div>
 
 ```html
