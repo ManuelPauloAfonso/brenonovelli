@@ -1,4 +1,4 @@
-<img src="/import.svg" height="16" alt="import * as benove" />
+<img src="https://github.com/brenonovelli/brenonovelli/raw/master/import.svg" height="16" alt="import * as benove" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonovelli&layout=compact)](https://www.linkedin.com/in/brenonovelli/)
 
