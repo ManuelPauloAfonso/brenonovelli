@@ -42,17 +42,16 @@
 
 ```javascript
 const brenonovelli = {
-  pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
   featuredTools: [
     "React",
     "Node",
     "React Native",
     "Gatsby",
+    "Redux",
     "Express",
     "Sequelize",
     "TypeORM",
-    "Redux",
     "Styled Components",
     "Sass",
     "Jest",
