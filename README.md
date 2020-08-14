@@ -66,7 +66,7 @@ const brenonovelli = {
   <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.stats.svg" height="30" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonovelli&layout=compact)](https://www.linkedin.com/in/brenonovelli/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonovelli&layout=compact)
 
 ---
 
