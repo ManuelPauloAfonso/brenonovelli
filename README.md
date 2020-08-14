@@ -37,7 +37,7 @@
 <p>
   <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.dev.svg" height="30" />
 
-  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.des.svg" height="30" align="right" />
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.des.svg" height="30" />
 </p>
 
 ```javascript
