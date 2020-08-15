@@ -26,6 +26,11 @@
 
 ---
 
+<h1 align="center">
+  <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/b.logo.gif" height="240" alt="benove logo" />
+</h1>
+
+
 <p>
   <img src="https://github.com/brenonovelli/brenonovelli/raw/master/assets/import.svg" height="16" alt="import * as benove" />
 </p>
