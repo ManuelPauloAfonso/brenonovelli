@@ -15,6 +15,7 @@
 ![ @brenonovelli](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux)
 ![ @brenonovelli](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![ @brenonovelli](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest)
 ![ @brenonovelli](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress)
 ![ @brenonovelli](https://img.shields.io/badge/Netlify_CMS-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)
