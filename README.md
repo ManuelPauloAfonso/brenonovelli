@@ -1,6 +1,6 @@
 [![Linkedin: brenonovelli](https://img.shields.io/badge/-brenonovelli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brenonovelli/)
 [![Behance: brenonovelli](https://img.shields.io/badge/-brenonovelli-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.com/brenonovelli/)
-[![Email: breno@breno.com.br](https://img.shields.io/badge/-breno@breno.com.br-D14836?style=for-the-badge&logo=Gmail&labelColor=&logoColor=white)](https://www.linkedin.com/in/brenonovelli/)
+[![Email: breno@breno.com.br](https://img.shields.io/badge/-breno@breno.com.br-D14836?style=for-the-badge&logo=Gmail&labelColor=&logoColor=white)](mailto:breno@breno.com.br)
 [![Telegram: @brenonovelli](https://img.shields.io/badge/-@brenonovelli-2CA5E0?style=for-the-badge&logo=Telegram&labelColor=&logoColor=white)](https://t.me/brenonovelli)
 
 ---
