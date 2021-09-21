@@ -55,6 +55,7 @@ const brenonovelli = {
     "React",
     "Node",
     "React Native",
+    "Nexj.js",
     "Gatsby",
     "Redux",
     "Express",
