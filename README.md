@@ -5,17 +5,17 @@
 
 ---
 
-![ @brenonovelli](https://img.shields.io/badge/JavaScript-282A37?style=for-the-badge&logo=JavaScript)
 ![ @brenonovelli](https://img.shields.io/badge/TypeScript-eeeeee?style=for-the-badge&logo=TypeScript)
+![ @brenonovelli](https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white)
+![ @brenonovelli](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=Next.js)
+![ @brenonovelli](https://img.shields.io/badge/JavaScript-282A37?style=for-the-badge&logo=JavaScript)
+![ @brenonovelli](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3)
-![ @brenonovelli](https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white)
-![ @brenonovelli](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
-![ @brenonovelli](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=Next.js)
-![ @brenonovelli](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby)
-![ @brenonovelli](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux)
 ![ @brenonovelli](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![ @brenonovelli](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux)
+![ @brenonovelli](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby)
 ![ @brenonovelli](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest)
 ![ @brenonovelli](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress)
